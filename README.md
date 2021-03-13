@@ -31,7 +31,7 @@ In this project, we Extracted data from two CSV files, Transformed them after cl
 * Google Trend Database: https://www.kaggle.com/dhruvildave/google-trends-dataset
 
 ### Final Technical Report
-![plot](report.png)
+![plot](report1.png)
 
 ### ERD Diagram
 ![plot](ERDiagram.png)
